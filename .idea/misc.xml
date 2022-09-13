@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Boys/Rnd/Test/ImageList/app/src/main/res/drawable-anydpi/ic_back.xml" value="0.151" />
+        <entry key="..\:/Boys/Rnd/Test/ImageList/app/src/main/res/drawable/image_circle.xml" value="0.1" />
+        <entry key="..\:/Boys/Rnd/Test/ImageList/app/src/main/res/layout/activity_details.xml" value="0.3411764705882353" />
+        <entry key="..\:/Boys/Rnd/Test/ImageList/app/src/main/res/layout/activity_details_list_item.xml" value="0.39375" />
+        <entry key="..\:/Boys/Rnd/Test/ImageList/app/src/main/res/layout/activity_images_list_item.xml" value="0.39375" />
+        <entry key="..\:/Boys/Rnd/Test/ImageList/app/src/main/res/layout/activity_main.xml" value="0.541025641025641" />
+        <entry key="..\:/Boys/Rnd/Test/ImageList/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Boys/Rnd/Test/ImageList/app/src/main/res/layout/activity_search_list_item.xml" value="0.25" />
+        <entry key="..\:/Boys/Rnd/Test/ImageList/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Boys/Rnd/Test/ImageList/app/src/main/res/layout/activity_users.xml" value="0.25" />
+        <entry key="..\:/Boys/Rnd/Test/ImageList/app/src/main/res/layout/activity_users_list_item.xml" value="0.3104166666666667" />
+        <entry key="..\:/Boys/Rnd/Test/ImageList/app/src/main/res/mipmap-anydpi-v26/ic_launcher_sequis_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
